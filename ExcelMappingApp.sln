@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMappingApp.Console", "ExcelMappingApp.Console\ExcelMappingApp.Console.csproj", "{E18301E2-C6AD-4135-8768-38FE5212794F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExcelMappingApp.Library", "ExcelMappingApp.Library\ExcelMappingApp.Library.csproj", "{63466A8D-7880-4CE7-AC64-C94239F37DE3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E18301E2-C6AD-4135-8768-38FE5212794F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E18301E2-C6AD-4135-8768-38FE5212794F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E18301E2-C6AD-4135-8768-38FE5212794F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E18301E2-C6AD-4135-8768-38FE5212794F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63466A8D-7880-4CE7-AC64-C94239F37DE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63466A8D-7880-4CE7-AC64-C94239F37DE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63466A8D-7880-4CE7-AC64-C94239F37DE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63466A8D-7880-4CE7-AC64-C94239F37DE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC288547-8573-4E64-B1B4-74A66D0562FF}
+	EndGlobalSection
+EndGlobal
